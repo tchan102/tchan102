@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Tat Chan
 
 <!--
 **tchan102/tchan102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Teamcook, an AI-driven restaurant management system and Algo101, a website that would showcase how data structure works with animation
+- 🌱 I’m currently studying at UC Berkeley, Go Bear!
+- 💬 Ask me about ...
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tatchungchan)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The last three years of my birthday, I was up on the air ✈️!
