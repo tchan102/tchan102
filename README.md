@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Teamcook, an AI-driven restaurant management system and Algo101, a website that would showcase how data structure works with animation
 - 🌱 I’m currently studying at UC Berkeley, Go Bear!
-- 💬 Ask me about ...
+- 👨‍💻 I'm interested in full stack development, both frontend and backend. Also Math as well, feel free to reach out. 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tatchungchan)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The last three years of my birthday, I was up on the air ✈️!
