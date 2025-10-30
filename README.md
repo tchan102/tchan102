@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 - 🔭 I’m currently working on Teamcook, an AI-driven restaurant management system and Algo101, a website that would showcase how data structure works with animation
+-->
 - 🌱 I’m currently studying at UC Berkeley, Go Bear!
 - 👨‍💻 I'm interested in full stack development, both frontend and backend. Also Math as well, feel free to reach out. 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tatchungchan)
